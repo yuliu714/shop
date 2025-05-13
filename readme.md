@@ -3,6 +3,7 @@
 ①
 首先使用idea打开本项目，
 配置运行环境维java17+tomcat9，（别的版本也可能可以运行）
+
 ②
 添加依赖mysql-connector-j-9.1.0.jar
 需要创建mysql数据库，具体的sql语句在shop.sql
