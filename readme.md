@@ -8,6 +8,7 @@
 添加依赖mysql-connector-j-9.1.0.jar
 需要创建mysql数据库，具体的sql语句在shop.sql
 数据库的配置在DBBean.java文件里，记得修改连接mysql的user和password
+
 ③
 启动运行。默认配置写在WEB-INF/web.xml文件里。
 
